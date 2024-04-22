@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from app.models import Customer
+from fast_app.models import Customer
 from database import create_db_and_tables
 
 app = FastAPI()
