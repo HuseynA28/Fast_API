@@ -2,7 +2,6 @@ fastapi[all]==0.86.0
 uvicorn[standard]==0.18.3
 sqlmodel==0.0.8
 psycopg2-binary==2.9.5
-pip install mysql-connector-python==8.0.29
-
+mysql-connector-python==8.0.29
 PyMySQL==1.0.2
 python-dotenv==0.21.0
